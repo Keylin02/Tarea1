@@ -1,0 +1,7 @@
+C:\Users\DOCENTE UPI\Documents\appValores\bin\Debug\appValores.exe.config
+C:\Users\DOCENTE UPI\Documents\appValores\bin\Debug\appValores.exe
+C:\Users\DOCENTE UPI\Documents\appValores\bin\Debug\appValores.pdb
+C:\Users\DOCENTE UPI\Documents\appValores\obj\Debug\appValores.csproj.AssemblyReference.cache
+C:\Users\DOCENTE UPI\Documents\appValores\obj\Debug\appValores.csproj.CoreCompileInputs.cache
+C:\Users\DOCENTE UPI\Documents\appValores\obj\Debug\appValores.exe
+C:\Users\DOCENTE UPI\Documents\appValores\obj\Debug\appValores.pdb
